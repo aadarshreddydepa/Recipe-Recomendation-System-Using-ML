@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 
 # Absolute path example
-data = pd.read_csv("recipe_final _dataset.csv")
+data = pd.read_csv("Recipe-Recomendation-System-Using-ML\recipe_final _dataset.csv")
 
 
 # Preprocess Ingredients

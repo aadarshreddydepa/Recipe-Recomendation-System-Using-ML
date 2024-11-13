@@ -31,6 +31,6 @@ def recommendation_system(input_features):
     return recommendation[['recipe_name','ingredients_list','image_url']]
 
 #Example input
-input_features=[23,56,34,74,24,546,34,'olive oil,peanuts,bread,egg,chicken']
-recommend=recommendation_system(input_features)
-print(recommend)
+# input_features=[23,56,34,74,24,546,34,'olive oil,peanuts,bread,egg,chicken']
+# recommend=recommendation_system(input_features)
+# print(recommend)

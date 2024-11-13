@@ -1,0 +1,31 @@
+recipe_name,ingredients_list,calories,fat,carbohydrates,protein,fiber,cholesterol,sodium,image_url,aver_rate
+Butter Chicken,"['Chicken', 'Butter', 'Cream', 'Tomatoes', 'Spices']",450,25,15,30,5,0.1,0.6,https://th.bing.com/th?id=OSK.HEROhki-yMPD4fUEsQY8XMIc_voOOM_o-OvZYkezJN2O88I&w=472&h=280&c=13&rs=2&o=6&dpr=1.3&pid=SANGAM,4.24
+Palak Paneer,"['Spinach', 'Paneer', 'Garlic', 'Spices']",300,20,10,15,3,0.03,0.5,https://th.bing.com/th?id=OSK.HEROdwkEaQBtzV97qa7jwNJZkUMvhPmG0MOpSk8QMdZefNI&w=312&h=200&c=15&rs=2&o=6&dpr=1.3&pid=SANGAM,3.82
+Aloo Gobi,"['Potatoes', 'Cauliflower', 'Spices']",150,8,20,5,4,0.0,0.3,https://th.bing.com/th?id=OSK.a07ef29f0cc733242f076ddf867eee3f&w=228&h=152&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1,3.65
+Biryani,"['Rice', 'Chicken', 'Spices', 'Yogurt']",500,15,60,20,3,0.05,0.75,https://th.bing.com/th?id=OSK.HEROEQrm4RW5u0TtnMe40xRmv86cQ0rDKuOWdy6vhXywvTU&w=472&h=280&c=13&rs=2&o=6&dpr=1.3&pid=SANGAM,4.56
+Chole Masala,"['Chickpeas', 'Tomatoes', 'Spices']",250,10,35,10,8,0.0,0.4,https://th.bing.com/th?id=OSK.2faf6aab4bf6627cfe31afac96bd12cb&w=228&h=345&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1,3.45
+Masoor Dal,"['Red lentils', 'Spices', 'Onion']",180,3,30,15,5,0.0,0.15,https://th.bing.com/th/id/OIP.MQIIRfF8MhmkCeh_InqdPwHaJD?w=157&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7,3.23
+Paneer Tikka,"['Paneer', 'Spices', 'Yogurt']",220,12,8,15,2,0.025,0.25,https://th.bing.com/th?id=OSK.93236a1398657ea8deccafc89762f4c6&w=228&h=345&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1,4.34
+Samosa,"['Potatoes', 'Flour', 'Spices']",300,20,40,5,5,0.0,0.45,https://www.bing.com/th?id=OIP.6epo9VH2-iV6O6Hu4o98fAHaEK&w=314&h=200&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2,3.45
+Matar Paneer,"['Peas', 'Paneer', 'Spices']",250,10,15,12,4,0.025,0.3,https://th.bing.com/th?id=OSK.mmcolDsrDnfmY-2q6bXJmHfwwWF3v-u_PjB_xw6-HvCT1f1g&w=224&h=200&c=7&rs=1&o=6&dpr=1.3&pid=SANGAM,4.56
+Rajma,"['Kidney beans', 'Tomatoes', 'Spices']",200,6,30,10,10,0.0,0.2,https://th.bing.com/th?id=OIP.RLay9uum84ib90uKCa6BVQHaHa&w=298&h=298&c=10&rs=1&qlt=99&bgcl=fffffe&r=0&o=6&dpr=1.3&pid=MultiSMRSV2Source,4.12
+Dosa,"['Rice', 'Black gram', 'Fenugreek seeds']",180,8,40,10,2,0.0,0.15,https://th.bing.com/th?id=OSK.mmcolChD7CQZwVAQqCEzOp3z8QFbAAjQdQen_Kz6KkY4Ksk0&w=130&h=100&c=8&o=6&dpr=1.3&pid=SANGAM,3.45
+Idli,"['Rice', 'Black gram']",100,3,20,5,1,0.0,0.1,https://th.bing.com/th?id=OSK.HEROlfGlWmWf6CFnHNSAtds4HW-Tl6kHlHARnu4uoGTN-jE&w=472&h=280&c=1&rs=2&o=6&dpr=1.3&pid=SANGAM,3.21
+Vada,"['Lentils', 'Spices', 'Oil']",200,12,25,10,3,0.005,0.2,https://th.bing.com/th?id=OSK.HEROVcyG6Fo3lau9uhTunKCj7l7YsWGMy-3yLyBXWhYGMWs&w=472&h=280&c=1&rs=2&o=6&dpr=1.3&pid=SANGAM,3.56
+Rasam,"['Tomatoes', 'Spices', 'Tamarind']",50,2,5,2,1,0.0,0.1,https://th.bing.com/th?id=OSK.HEROXg2DZD22-snx7v7kuTFbvqmGq-f7grXcGpLItEwpYvI&w=472&h=280&c=13&rs=2&o=6&dpr=1.3&pid=SANGAM,3.1
+Sambar,"['Lentils', 'Tamarind', 'Spices']",120,4,15,5,5,0.0,0.15,https://th.bing.com/th?id=OSK.HEROmuoLs9NexH8wFVlr4fPV1-GA_uIn2orzHi2VfQeD2Ho&w=472&h=280&c=13&rs=2&o=6&dpr=1.3&pid=SANGAM,4.12
+Upma,"['Semolina', 'Vegetables', 'Spices']",200,8,30,8,4,0.0,0.25,https://th.bing.com/th/id/OIP.boBBw90ShLIHl5l9pQvbQgHaE7?w=280&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7,3.65
+Pongal,"['Rice', 'Lentils', 'Spices']",250,10,40,10,3,0.01,0.3,https://th.bing.com/th?id=OSK.dec12a83681df9b9a173d8d8bf960881&w=228&h=228&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1,3.09
+Bhindi Masala,"['Okra', 'Tomatoes', 'Spices']",100,5,15,3,6,0.0,0.2,https://bing.com/th?id=OSK.9487578726c02c75b4ac13c4874590bc,4.23
+Malai Kofta,"['Paneer', 'Cream', 'Spices']",400,30,25,10,4,0.06,0.35,https://th.bing.com/th?id=OSK.HEROQYdIAWP6OTsdjDThgl9atdk017ZIiFx37ltm4TgbvWw&w=472&h=280&c=1&rs=2&o=6&dpr=1.3&pid=SANGAM,3.97
+Kadhi Pakora,"['Yogurt', 'Chickpea flour', 'Spices']",250,15,15,8,3,0.01,0.4,https://th.bing.com/th?id=OIP.kHx_JPw8Q1zsSI_x2-oTTQHaE7&w=312&h=200&c=12&rs=1&o=6&dpr=1.3&pid=23.1,3.67
+Aloo Paratha,"['Potatoes', 'Wheat flour', 'Spices']",300,15,45,8,5,0.005,0.3,https://th.bing.com/th?id=OSK.72848ce180eadda380afb2f2f950b2bd&w=228&h=228&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1,3.68
+Chana Saag,"['Chickpeas', 'Spinach', 'Spices']",220,12,20,10,6,0.0,0.2,https://th.bing.com/th?id=OIP.e5SnUayi0mNi3FGXaBUYwQHaHa&w=144&h=144&c=2&o=6&dpr=1.3&pid=WebQS,3.56
+Baingan Bharta,"['Eggplant', 'Tomatoes', 'Spices']",150,5,10,3,5,0.0,0.1,https://th.bing.com/th?id=OIP.Eovsal7Ntw0i58K1cN0F_QHaHa&w=298&h=298&c=10&rs=1&qlt=99&bgcl=fffffe&r=0&o=6&dpr=1.3&pid=MultiSMRSV2Source,4.16
+Gajar Halwa,"['Carrot', 'Milk', 'Sugar', 'Ghee']",350,20,50,6,3,0.04,0.15,https://th.bing.com/th?id=OSK.HEROBYqBuhM11OU9TmxGyD14ZYH9PHLK4QqmypqP2tDDVxY&w=312&h=200&c=15&rs=2&o=6&dpr=1.3&pid=SANGAM,4.67
+Kheer,"['Rice', 'Milk', 'Sugar']",320,10,55,8,2,0.03,0.2,https://th.bing.com/th?id=OSK.8b683a23ed8cb28d0cea52f92c9966d8&w=228&h=345&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1,4.56
+Pav Bhaji,"['Mixed vegetables', 'Spices', 'Bread']",400,25,45,15,6,0.025,0.6,https://th.bing.com/th?id=OSK.mmcolfVuh-A6pw474920yIewQGu7nDCp1py63Ndw5W1e2EJo&w=100&h=100&c=8&o=6&dpr=1.3&pid=SANGAM,4.23
+Pani Puri,"['Flour', 'Semolina', 'Water', 'Spices']",150,2,20,2,1,0.0,0.05,https://th.bing.com/th?id=OSK.mmcolfVuh-A6pw474920yIewQGu7nDCp1py63Ndw5W1e2EJo&w=100&h=100&c=8&o=6&dpr=1.3&pid=SANGAM,3.12
+Tandoori Chicken,"['Chicken', 'Yogurt', 'Spices']",250,12,8,25,2,0.07,0.7,https://th.bing.com/th?id=OSK.2b729377ee15f34ee3cdcd9371263d2c&w=228&h=325&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1,4.59
+Egg Curry,"['Eggs', 'Tomatoes', 'Spices']",300,15,10,12,1,0.2,0.5,https://th.bing.com/th?id=OSK.d6c100cde9f95f7cd81c2683c8d24c86&w=228&h=228&rs=2&qlt=80&o=6&cdv=1&dpr=1.3&pid=16.1,4.35
+Keema Matar,"['Minced meat', 'Peas', 'Spices']",450,25,15,20,2,0.12,0.55,https://th.bing.com/th?id=OSK.7182198547c44d03e470f2383a01a666&w=312&h=200&c=12&rs=1&o=6&dpr=1.3&pid=23.1,4.75
