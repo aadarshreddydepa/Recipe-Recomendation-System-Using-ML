@@ -3,8 +3,7 @@ import numpy as np
 from sklearn.neighbors import NearestNeighbors #k-NN algoritm 
 from sklearn.preprocessing import StandardScaler #used to Normalize Numerical Features
 from sklearn.feature_extraction.text import TfidfVectorizer #used to convert a text data into numerical values
-file="recipe_final _dataset.csv"
-recipe_df=pd.read_csv(file)
+recipe_df = pd.read_csv("D:/Aadarsh/Projects/Recipe-Recomendation-System-Using-ML/datasets/recipe_final_dataset.csv")
 print(recipe_df.head(3))
 print(recipe_df['ingredients_list'][0]) #prints the first list of ingredents present in the dataset
 vectorizer=TfidfVectorizer()

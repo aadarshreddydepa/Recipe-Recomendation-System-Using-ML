@@ -10,8 +10,7 @@ app = Flask(__name__)
 
 
 # Absolute path example
-data = pd.read_csv("Recipe-Recomendation-System-Using-ML\recipe_final _dataset.csv")
-
+data = pd.read_csv("D:/Aadarsh/Projects/Recipe-Recomendation-System-Using-ML/datasets/recipe_final_dataset.csv")
 
 # Preprocess Ingredients
 vectorizer = TfidfVectorizer()
@@ -20,7 +19,6 @@ X_ingredients = vectorizer.fit_transform(data['ingredients_list'])
 # Normalize Numerical Features
 scaler = StandardScaler()
 X_numerical = scaler.fit_transform(data[['calories', 'fat', 'carbohydrates', 'protein', 'cholesterol', 'sodium', 'fiber']])
-
 # Combine Features
 X_combined = np.hstack([X_numerical, X_ingredients.toarray()])
 
